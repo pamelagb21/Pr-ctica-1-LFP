@@ -1,1 +1,8 @@
-
+Algoritmos
+  Los algoritmos forman una parte importante dentro de la informática debido a que ayudan a crear una metodología para la resolución de problemas.  Como parte de ello, es importante entender “¿Qué es un problema?”, un problema es un cuestionamiento que requiere solución y  cada solución varía de acuerdo al tipo de problema. 
+Entender un problema requiere de un proceso que está compuesto por una serie de elementos:
+Datos (elementos de entrada)
+Trabajo de la solución (proceso)
+Resultado (salida)
+  Un error muy común al solucionar problemas en informática es iniciar con la escritura del programa sin antes pasar por un proceso de análisis que ayude a evaluar las posibles soluciones lo que ocasiona que no se llegue a una solución certera del problema.
+  En el ámbito informático la solución se realiza con la construcción de algoritmos a través del uso de herramientas como el pseudocódigo y el diagrama de flujo.
